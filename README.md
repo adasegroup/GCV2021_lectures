@@ -1,4 +1,6 @@
-Lecture repository for Skoltech Geometric Computer Vision v.2021.1 (GCV 2021.1)
+Lecture repository for Skoltech Geometric Computer Vision v.2021.1 (GCV 2021.1).
+
+The links provided below are pointing to external resources outside this repository and may not be working at the time you access them. Alternatively you can simply clone the repository and access files here.
 
 
 Week | Topic | YouTube Recording | Slides | Handout
