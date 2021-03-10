@@ -14,3 +14,6 @@ Week | Topic | YouTube Recording | Slides | Handout
 3  | Dense 2D range-images | [YouTube](https://youtu.be/r55eGJiwbuo) | [slides](https://drive.google.com/file/d/1oq3mHme5jCnwpDCUuCv00seDyTwC_vbo/view?usp=sharing) | [printer-friendly](https://drive.google.com/file/d/1PeAqCB6BO3iZEOwRcFYenfaT59M9-V3_/view?usp=sharing)
 4  | Point set-based modalities | [YouTube](https://youtu.be/B7m6MNKdnyg) | [slides](https://drive.google.com/file/d/1dRyVsS-tJLbOesPO-ji-vMDNy3P5fGSG/view?usp=sharing) | [printer-friendly](https://drive.google.com/file/d/1L4EQXTwAnNtYm4rR0dSkSTETQLi2zgMz/view?usp=sharing)
 5  | Learning from volumetric depth | [YouTube](https://youtu.be/JEyIfo5cK8s) | [slides](https://drive.google.com/file/d/1WHi1hIW2o4Ufi6b4O_QcIRZDAzrgqLWj/view?usp=sharing) | [printer-friendly](https://drive.google.com/file/d/1-T-7F8uQkXfrd8cUAgmeJU-qcO3XSop2/view?usp=sharing)
+6  | Learning with implicit functions | [YouTube](https://youtu.be/ceAetXcxhTs) | [slides](https://drive.google.com/file/d/1nYwKmbiE5YyT-T2SLJA1rLqzOYApLzPY/view?usp=sharing) | [printer-friendly](https://drive.google.com/file/d/1qzDyE-_gTFgQSwJxWlTVb04cuylD_XyT/view?usp=sharing)
+7  | Surface modalities | TBD | TBD | TBD 
+8  | CAD/vectorized modalities | TBD | TBD | TBD 
